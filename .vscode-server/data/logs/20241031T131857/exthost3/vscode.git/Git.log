@@ -1,0 +1,43 @@
+2024-10-31 13:27:17.076 [info] [main] Niveau du journal : Info
+2024-10-31 13:27:17.076 [info] [main] Validation du git trouvé dans : «git»
+2024-10-31 13:27:17.076 [info] [main] Utilisation de git "2.25.1" de "git»
+2024-10-31 13:27:17.076 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-31 13:27:17.085 [info] > git rev-parse --show-toplevel [11ms]
+2024-10-31 13:27:17.085 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-31 13:27:17.093 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-31 13:27:17.093 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-31 13:27:17.101 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-31 13:27:17.101 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-31 13:27:17.108 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-31 13:27:17.108 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-31 13:27:17.116 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-31 13:27:17.116 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-31 13:27:17.126 [info] > git rev-parse --show-toplevel [5ms]
+2024-10-31 13:27:17.126 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-31 13:27:17.133 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-31 13:27:17.133 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-31 13:27:17.154 [info] > git rev-parse --show-toplevel [17ms]
+2024-10-31 13:27:17.154 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-31 13:27:17.162 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-31 13:27:17.162 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-31 13:27:17.169 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-31 13:27:17.169 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-31 13:27:17.175 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-31 13:27:20.268 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-31 13:27:20.268 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-31 13:37:22.891 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-31 13:37:22.891 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-31 13:37:59.696 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-31 13:37:59.696 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-31 13:38:10.936 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-31 13:38:10.943 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-10-31 13:38:10.960 [info] [Model][openRepository] Opened repository: /home/ubuntu
+2024-10-31 13:38:10.974 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-31 13:38:10.975 [info] > git config --get commit.template [6ms]
+2024-10-31 13:38:10.975 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-10-31 13:38:10.976 [warning] [Git][getBranch] No such branch: master
+2024-10-31 13:38:10.992 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-10-31 13:38:11.115 [info] > git status -z -uall [134ms] (cancelled)
+2024-10-31 13:38:11.357 [info] > git show --textconv :datascientest-jenkins/Jenkinsfile [8ms]
+2024-10-31 13:38:11.362 [info] > git ls-files --stage -- /home/ubuntu/datascientest-jenkins/Jenkinsfile [6ms]
+2024-10-31 13:38:11.564 [info] > git check-ignore -v -z --stdin [2ms]

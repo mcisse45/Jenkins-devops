@@ -1,0 +1,67 @@
+2024-10-31 09:16:08.407 [info] 
+
+
+
+
+2024-10-31 09:16:08.422 [info] Extension host agent started.
+2024-10-31 09:16:08.488 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2024-10-31 09:16:08.505 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2024-10-31 09:16:08.557 [info] [<unknown>][2568c986][ExtensionHostConnection] New connection established.
+2024-10-31 09:16:08.595 [info] [<unknown>][f2d50ac9][ManagementConnection] New connection established.
+2024-10-31 09:16:08.669 [info] [<unknown>][2568c986][ExtensionHostConnection] <2911> Launched Extension Host Process.
+2024-10-31 09:16:08.894 [info] Installing extensions...
+2024-10-31 09:16:09.570 [info] Installing extension 'ms-ceintl.vscode-language-pack-fr'...
+2024-10-31 09:16:09.854 [info] Getting Manifest... ms-ceintl.vscode-language-pack-fr
+2024-10-31 09:16:09.893 [info] Installing extension: ms-ceintl.vscode-language-pack-fr {"isMachineScoped":true,"isBuiltin":false,"installGivenVersion":false,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"}}
+2024-10-31 09:16:12.526 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-fr: Success. Executed: true. Duration: 1859ms.
+2024-10-31 09:16:12.728 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-ceintl.vscode-language-pack-fr-1.94.2024101609: ms-ceintl.vscode-language-pack-fr
+2024-10-31 09:16:12.734 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-ceintl.vscode-language-pack-fr-1.94.2024101609
+2024-10-31 09:16:12.747 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-fr
+2024-10-31 09:16:12.781 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-fr file:///home/ubuntu/.vscode-server/extensions/extensions.json
+2024-10-31 09:16:12.782 [info] Extension 'ms-ceintl.vscode-language-pack-fr' v1.94.2024101609 was successfully installed.
+2024-10-31 09:16:18.594 [info] Getting Manifest... ms-ceintl.vscode-language-pack-fr
+2024-10-31 09:16:18.714 [info] Installing extension: ms-ceintl.vscode-language-pack-fr {"productVersion":{"version":"1.95.0","date":"1970-01-01T00:00:00.000Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"darwin-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-10-31 09:16:20.365 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-fr: Success. Executed: true. Duration: 1252ms.
+2024-10-31 09:16:20.544 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-ceintl.vscode-language-pack-fr-1.95.2024103009: ms-ceintl.vscode-language-pack-fr
+2024-10-31 09:16:20.548 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-ceintl.vscode-language-pack-fr-1.95.2024103009
+2024-10-31 09:16:20.558 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-fr-1.94.2024101609
+2024-10-31 09:16:20.560 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-fr
+2024-10-31 09:16:20.583 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-fr file:///home/ubuntu/.vscode-server/extensions/extensions.json
+2024-10-31 09:21:08.425 [info] New EH opened, aborting shutdown
+2024-10-31 10:43:02.500 [info] [<unknown>][f2d50ac9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-31 10:43:02.574 [info] [<unknown>][2568c986][ExtensionHostConnection] <2911> Extension Host Process exited with code: 0, signal: null.
+2024-10-31 10:43:02.575 [info] Last EH closed, waiting before shutting down
+2024-10-31 10:43:04.830 [info] [<unknown>][e8b90e38][ManagementConnection] New connection established.
+2024-10-31 10:43:04.830 [info] [<unknown>][fde4786a][ExtensionHostConnection] New connection established.
+2024-10-31 10:43:04.834 [info] [<unknown>][fde4786a][ExtensionHostConnection] <52218> Launched Extension Host Process.
+2024-10-31 10:43:37.019 [info] Getting Manifest... ms-python.python
+2024-10-31 10:43:37.152 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"}}
+2024-10-31 10:43:37.464 [info] Getting Manifest... ms-python.vscode-pylance
+2024-10-31 10:43:37.521 [info] Getting Manifest... ms-python.debugpy
+2024-10-31 10:43:37.608 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-31 10:43:37.609 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-31 10:43:41.456 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 3106ms.
+2024-10-31 10:43:41.528 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 3092ms.
+2024-10-31 10:43:42.643 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 3137ms.
+2024-10-31 10:43:43.808 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.debugpy-2024.12.0-linux-x64: ms-python.debugpy
+2024-10-31 10:43:43.818 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.debugpy-2024.12.0-linux-x64
+2024-10-31 10:43:47.053 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.python-2024.16.1-linux-x64: ms-python.python
+2024-10-31 10:43:47.065 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.16.1-linux-x64
+2024-10-31 10:43:54.454 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1: ms-python.vscode-pylance
+2024-10-31 10:43:54.468 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1
+2024-10-31 10:43:54.528 [info] Extension installed successfully: ms-python.debugpy file:///home/ubuntu/.vscode-server/extensions/extensions.json
+2024-10-31 10:43:54.529 [info] Extension installed successfully: ms-python.python file:///home/ubuntu/.vscode-server/extensions/extensions.json
+2024-10-31 10:43:54.529 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/ubuntu/.vscode-server/extensions/extensions.json
+2024-10-31 10:48:02.575 [info] New EH opened, aborting shutdown
+2024-10-31 10:55:20.558 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-10-31 10:55:20.767 [info] Installing extension: ms-azuretools.vscode-docker {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"}}
+2024-10-31 10:55:22.691 [info] Extension signature verification result for ms-azuretools.vscode-docker: Success. Executed: true. Duration: 1243ms.
+2024-10-31 10:55:22.878 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.3: ms-azuretools.vscode-docker
+2024-10-31 10:55:22.886 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.3
+2024-10-31 10:55:22.941 [info] Extension installed successfully: ms-azuretools.vscode-docker file:///home/ubuntu/.vscode-server/extensions/extensions.json
+2024-10-31 11:01:45.618 [info] [<unknown>][e8b90e38][ManagementConnection] The client has reconnected.
+2024-10-31 11:02:18.509 [info] [<unknown>][fde4786a][ExtensionHostConnection] The client has reconnected.
+2024-10-31 11:05:23.791 [info] [<unknown>][e8b90e38][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-31 11:05:23.941 [info] [<unknown>][fde4786a][ExtensionHostConnection] <52218> Extension Host Process exited with code: 0, signal: null.
+2024-10-31 11:05:23.942 [info] Last EH closed, waiting before shutting down
+2024-10-31 11:10:23.944 [info] Last EH closed, shutting down

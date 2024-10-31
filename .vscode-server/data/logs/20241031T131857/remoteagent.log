@@ -1,0 +1,20 @@
+2024-10-31 13:18:57.181 [info] 
+
+
+
+
+2024-10-31 13:18:57.200 [info] Extension host agent started.
+2024-10-31 13:18:57.395 [info] [<unknown>][9b683dbc][ExtensionHostConnection] New connection established.
+2024-10-31 13:18:57.397 [info] [<unknown>][3e028473][ManagementConnection] New connection established.
+2024-10-31 13:18:57.399 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-fr /home/ubuntu/.vscode-server/extensions/ms-ceintl.vscode-language-pack-fr-1.94.2024101609
+2024-10-31 13:18:57.696 [info] [<unknown>][9b683dbc][ExtensionHostConnection] <2904> Launched Extension Host Process.
+2024-10-31 13:23:57.201 [info] New EH opened, aborting shutdown
+2024-10-31 13:25:37.917 [info] [<unknown>][f70a9f9e][ExtensionHostConnection] New connection established.
+2024-10-31 13:25:37.919 [info] [<unknown>][e4562023][ManagementConnection] New connection established.
+2024-10-31 13:25:37.924 [info] [<unknown>][f70a9f9e][ExtensionHostConnection] <3266> Launched Extension Host Process.
+2024-10-31 13:27:10.608 [info] [<unknown>][e4562023][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-31 13:27:10.649 [info] [<unknown>][f70a9f9e][ExtensionHostConnection] <3266> Extension Host Process exited with code: 0, signal: null.
+2024-10-31 13:27:12.759 [info] [<unknown>][471acd94][ManagementConnection] New connection established.
+2024-10-31 13:27:12.784 [info] [<unknown>][8aa0a373][ExtensionHostConnection] New connection established.
+2024-10-31 13:27:12.792 [info] [<unknown>][8aa0a373][ExtensionHostConnection] <3449> Launched Extension Host Process.
+2024-10-31 13:36:35.133 [info] [<unknown>][3e028473][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

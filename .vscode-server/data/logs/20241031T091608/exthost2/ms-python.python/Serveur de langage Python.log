@@ -1,0 +1,34 @@
+2024-10-31 10:43:58.487 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.16.1)
+2024-10-31 10:43:59.289 [info] [Info  - 10:43:59 AM] (52550) Server root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-31 10:43:59.290 [info] [Info  - 10:43:59 AM] (52550) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-10-31 10:43:59.290 [info] [Info  - 10:43:59 AM] (52550) Starting service instance "ubuntu"
+2024-10-31 10:43:59.363 [info] [Info  - 10:43:59 AM] (52550) Setting environmentName for service "ubuntu": "3.8.10 (global)"
+2024-10-31 10:43:59.364 [info] [Info  - 10:43:59 AM] (52550) Setting pythonPath for service "ubuntu": "/bin/python3"
+2024-10-31 10:43:59.365 [info] [Info  - 10:43:59 AM] (52550) No include entries specified; assuming /home/ubuntu
+2024-10-31 10:43:59.366 [info] [Info  - 10:43:59 AM] (52550) Auto-excluding **/node_modules
+2024-10-31 10:43:59.367 [info] [Info  - 10:43:59 AM] (52550) Auto-excluding **/__pycache__
+2024-10-31 10:43:59.367 [info] [Info  - 10:43:59 AM] (52550) Auto-excluding **/.*
+2024-10-31 10:43:59.423 [info] [Info  - 10:43:59 AM] (52550) Assuming Python version 3.8.10.final.0
+2024-10-31 10:43:59.687 [info] [Info  - 10:43:59 AM] (52550) Found 1 source file
+2024-10-31 10:44:00.813 [info] [Info  - 10:44:00 AM] (52550) Background analysis(1) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-31 10:44:00.820 [info] [Info  - 10:44:00 AM] (52550) Background analysis(1) started
+2024-10-31 10:44:01.436 [info] [Info  - 10:44:01 AM] (52550) Indexer background runner(2) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-10-31 10:44:01.437 [info] [Info  - 10:44:01 AM] (52550) Indexing(2) started
+2024-10-31 10:44:03.118 [info] [Info  - 10:44:03 AM] (52550) scanned(2) 77 files over 1 exec env
+2024-10-31 10:44:05.557 [info] [Info  - 10:44:05 AM] (52550) indexed(2) 77 files over 1 exec env
+2024-10-31 10:44:05.709 [info] [Info  - 10:44:05 AM] (52550) Indexing finished(2).
+2024-10-31 10:55:24.929 [info] [Info  - 10:55:24 AM] Server process exited successfully
+2024-10-31 10:55:25.547 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.16.1)
+2024-10-31 10:55:26.321 [info] [Info  - 10:55:26 AM] (53347) Server root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-31 10:55:26.324 [info] [Info  - 10:55:26 AM] (53347) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-10-31 10:55:26.337 [info] [Info  - 10:55:26 AM] (53347) Starting service instance "ubuntu"
+2024-10-31 10:55:26.428 [info] [Info  - 10:55:26 AM] (53347) Setting environmentName for service "ubuntu": "3.8.10 (global)"
+2024-10-31 10:55:26.430 [info] [Info  - 10:55:26 AM] (53347) Setting pythonPath for service "ubuntu": "/bin/python3"
+2024-10-31 10:55:26.430 [info] [Info  - 10:55:26 AM] (53347) No include entries specified; assuming /home/ubuntu
+2024-10-31 10:55:26.432 [info] [Info  - 10:55:26 AM] (53347) Auto-excluding **/node_modules
+2024-10-31 10:55:26.432 [info] [Info  - 10:55:26 AM] (53347) Auto-excluding **/__pycache__
+2024-10-31 10:55:26.433 [info] [Info  - 10:55:26 AM] (53347) Auto-excluding **/.*
+2024-10-31 10:55:26.478 [info] [Info  - 10:55:26 AM] (53347) Assuming Python version 3.8.10.final.0
+2024-10-31 10:55:26.642 [info] [Info  - 10:55:26 AM] (53347) Found 1 source file
+2024-10-31 10:55:27.494 [info] [Info  - 10:55:27 AM] (53347) Background analysis(1) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-31 10:55:27.502 [info] [Info  - 10:55:27 AM] (53347) Background analysis(1) started

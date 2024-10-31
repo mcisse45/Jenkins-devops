@@ -1,0 +1,42 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-0704e02f-e000-4e8c-a17e-0aa1fa7485a2
+Extension host agent listening on /tmp/code-0704e02f-e000-4e8c-a17e-0aa1fa7485a2
+
+[13:18:57] 
+
+
+
+
+[13:18:57] Extension host agent started.
+[13:18:57] [<unknown>][9b683dbc][ExtensionHostConnection] New connection established.
+[13:18:57] [<unknown>][3e028473][ManagementConnection] New connection established.
+[13:18:57] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-fr /home/ubuntu/.vscode-server/extensions/ms-ceintl.vscode-language-pack-fr-1.94.2024101609
+Generating translation files failed. Error: ENOENT: no such file or directory, open '/home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/nls.keys.json'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1249:14)
+    at async u (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/server/node/server.main.js:70:5044)
+    at async Yv (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/server/node/server.main.js:70:38673)
+    at async Vf.start (file:///home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/server/node/server.main.js:70:41385) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ubuntu/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/nls.keys.json'
+}
+[13:18:57] [<unknown>][9b683dbc][ExtensionHostConnection] <2904> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[13:23:57] New EH opened, aborting shutdown
+[13:25:37] [<unknown>][f70a9f9e][ExtensionHostConnection] New connection established.
+[13:25:37] [<unknown>][e4562023][ManagementConnection] New connection established.
+[13:25:37] [<unknown>][f70a9f9e][ExtensionHostConnection] <3266> Launched Extension Host Process.
+[13:27:10] [<unknown>][e4562023][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:27:10] [<unknown>][f70a9f9e][ExtensionHostConnection] <3266> Extension Host Process exited with code: 0, signal: null.
+[13:27:12] [<unknown>][471acd94][ManagementConnection] New connection established.
+[13:27:12] [<unknown>][8aa0a373][ExtensionHostConnection] New connection established.
+[13:27:12] [<unknown>][8aa0a373][ExtensionHostConnection] <3449> Launched Extension Host Process.
+[13:36:35] [<unknown>][3e028473][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
